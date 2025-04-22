@@ -1,0 +1,110 @@
+[
+  {
+    "month": "January",
+    "year": 2025,
+    "working_days": 23,
+    "working_hours": 184,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 56672.00,
+    "monthly_total_cost_rsd": 76789.87
+  },
+  {
+    "month": "February",
+    "year": 2025,
+    "working_days": 20,
+    "working_hours": 160,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 49280.00,
+    "monthly_total_cost_rsd": 66244.93
+  },
+  {
+    "month": "March",
+    "year": 2025,
+    "working_days": 21,
+    "working_hours": 168,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 51744.00,
+    "monthly_total_cost_rsd": 69759.91
+  },
+  {
+    "month": "April",
+    "year": 2025,
+    "working_days": 22,
+    "working_hours": 176,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 54208.00,
+    "monthly_total_cost_rsd": 73274.90
+  },
+  {
+    "month": "May",
+    "year": 2025,
+    "working_days": 22,
+    "working_hours": 176,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 54208.00,
+    "monthly_total_cost_rsd": 73274.90
+  },
+  {
+    "month": "June",
+    "year": 2025,
+    "working_days": 21,
+    "working_hours": 168,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 51744.00,
+    "monthly_total_cost_rsd": 69759.91
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "working_days": 23,
+    "working_hours": 184,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 56672.00,
+    "monthly_total_cost_rsd": 76789.87
+  },
+  {
+    "month": "August",
+    "year": 2025,
+    "working_days": 21,
+    "working_hours": 168,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 51744.00,
+    "monthly_total_cost_rsd": 69759.91
+  },
+  {
+    "month": "September",
+    "year": 2025,
+    "working_days": 22,
+    "working_hours": 176,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 54208.00,
+    "monthly_total_cost_rsd": 73274.90
+  },
+  {
+    "month": "October",
+    "year": 2025,
+    "working_days": 23,
+    "working_hours": 184,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 56672.00,
+    "monthly_total_cost_rsd": 76789.87
+  },
+  {
+    "month": "November",
+    "year": 2025,
+    "working_days": 20,
+    "working_hours": 160,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 49280.00,
+    "monthly_total_cost_rsd": 66244.93
+  },
+  {
+    "month": "December",
+    "year": 2025,
+    "working_days": 23,
+    "working_hours": 184,
+    "hourly_wage_rsd": 308,
+    "monthly_gross_rsd": 56672.00,
+    "monthly_total_cost_rsd": 76789.87
+  }
+]
